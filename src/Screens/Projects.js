@@ -32,7 +32,7 @@ const Projects = () => {
                             </div>
                         </a>
 
-                        <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
+                        <a href="https://portfolio-nu-one-34.vercel.app/" target='blank' rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
                                 src={Project_IMg2}
@@ -64,7 +64,7 @@ const Projects = () => {
                             </div>
                         </a>
                         {/* phrase=====2 */}
-                        <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
+                        <a href="https://mern-jwt-token.vercel.app/" target='blank' rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
                                 src={LogIn}
