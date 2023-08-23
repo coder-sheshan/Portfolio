@@ -4,6 +4,7 @@ import Css from '../Assets/HTML&Css.jpeg';
 import JavaScript from '../Assets/Javascript.jpeg';
 import ReactNative from '../Assets/ReactNative.jpeg';
 import Python from '../Assets/Python.png';
+import Reactjs from '../Assets/reactjs.png';
 
 
 const Certificates = () => {
@@ -251,16 +252,16 @@ const Certificates = () => {
                             datetime="2022-10-10"
                             class="flex items-center justify-between gap-4 text-xs font-bold uppercase text-white"
                         >
-                            <span>2022</span>
+                            <span>2023</span>
                             <span class="w-px flex-1 bg-red-900"></span>
-                            <span>Oct 10</span>
+                            <span>Aug 23</span>
                         </time>
                     </div>
 
                     <div class="hidden sm:block sm:basis-56">
                         <img
                             alt="Guitar"
-                            src="https://images.unsplash.com/photo-1609557927087-f9cf8e88de18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+                            src={Reactjs}
                             class="aspect-square h-full w-full object-cover"
                         />
                     </div>
@@ -269,22 +270,19 @@ const Certificates = () => {
                         <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
                             <a href="#">
                                 <h3 class="font-bold uppercase text-purple-700">
-                                    Finding the right guitar for your style - 5 tips
+                                Achived certificate in React.js in Guvi
                                 </h3>
                             </a>
 
                             <p class="mt-2 line-clamp-3 text-sm/relaxed text-white">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae
-                                dolores, possimus pariatur animi temporibus nesciunt praesentium dolore
-                                sed nulla ipsum eveniet corporis quidem, mollitia itaque minus soluta,
-                                voluptates neque explicabo tempora nisi culpa eius atque dignissimos.
-                                Molestias explicabo corporis voluptatem?
+                            I successfully earned a certificate in React.js by completing comprehensive training that covered React's core concepts, component-based architecture, state management, and lifecycle methods. Through hands-on projects, I gained practical experience in building interactive and dynamic user interfaces.
                             </p>
                         </div>
 
                         <div class="sm:flex sm:items-end sm:justify-end">
                             <a
-                                href="#"
+                                href="https://www.guvi.in/verify-certificate?id=g6M2V816F6r5953087&course=reactJs"
+                                target='blank'
                                 class="block bg-purple-600 rounded-md px-5 py-3 text-center text-xs font-bold uppercase text-white transition hover:bg-purple-400"
                             >
                             Download

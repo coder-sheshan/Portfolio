@@ -1,18 +1,8 @@
 import React from 'react';
-import Resume from '../Assets/My_Resume.pdf';
+import Resume from '../Assets/MyResume.pdf';
 
 const Home = () => {
 
-  const PdfDownload = () => {
-    // Replace 'path_to_your_pdf_file' with the actual path to your PDF file
-    const fileUrl = 'path_to_your_pdf_file';
-    const link = document.createElement('a');
-    link.href = fileUrl;
-    link.setAttribute('download', 'cv.pdf');
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
   return (
     <div className='homePage'>
       {/* Home Content */}
@@ -29,9 +19,7 @@ const Home = () => {
             </h1>
 
             <p className="mx-auto mt-1 max-w-xl sm:text-xl/relaxed">
-              I'm a (MERN) full-stack web developer with experience in both front-end / back-end and also other modern web technologies like mongodb, sql, react.js, node.js and sequlize (ORM).
-            </p>
-
+            I'm a full-stack web developer with experience in both front-end and back-end development, as well as mobile development in React Native and other modern web technologies such as Next.js, Typescript, ReduxToolkit, and Sequlize (ORM).</p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <a
                 className="inline-block rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-[2px] hover:text-white focus:outline-none focus:ring active:text-opacity-75"

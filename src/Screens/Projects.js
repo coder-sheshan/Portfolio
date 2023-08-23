@@ -92,7 +92,7 @@ const Projects = () => {
 
                                 <span class="hidden sm:block sm:h-px sm:w-8 sm:bg-yellow-500"></span>
 
-                                <p class="mt-0.5 opacity-50 sm:mt-0">Flipkart / Redux Toolkit</p>
+                                <p class="mt-0.5 opacity-50 sm:mt-0">Next.js / TypeScript</p>
                             </div>
                         </a>
 
@@ -112,7 +112,7 @@ const Projects = () => {
                             </div>
                         </a>
                         {/* phrase===3 */}
-                        <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
+                        {/* <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
                                 src="https://images.unsplash.com/photo-1588515724527-074a7a56616c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
@@ -126,7 +126,7 @@ const Projects = () => {
 
                                 <p class="mt-0.5 opacity-50 sm:mt-0">MERN / City_State API</p>
                             </div>
-                        </a>
+                        </a> */}
 
                         <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
                             <img
@@ -136,11 +136,11 @@ const Projects = () => {
                             />
 
                             <div class="mt-4 sm:flex sm:items-center sm:justify-center sm:gap-4">
-                                <strong class="font-medium">Payment Gateway</strong>
+                                <strong class="font-medium">Habits</strong>
 
                                 <span class="hidden sm:block sm:h-px sm:w-8 sm:bg-yellow-500"></span>
 
-                                <p class="mt-0.5 opacity-50 sm:mt-0">Banking / Razopay</p>
+                                <p class="mt-0.5 opacity-50 sm:mt-0">Financial Mobile App/ ReactNaive</p>
                             </div>
                         </a>
 
@@ -156,7 +156,7 @@ const Projects = () => {
 
                                 <span class="hidden sm:block sm:h-px sm:w-8 sm:bg-yellow-500"></span>
 
-                                <p class="mt-0.5 opacity-50 sm:mt-0"> MERN / Social Media App</p>
+                                <p class="mt-0.5 opacity-50 sm:mt-0"> ReduxToolkit / Social Media App</p>
                             </div>
                         </a>
 

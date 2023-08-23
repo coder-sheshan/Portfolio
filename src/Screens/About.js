@@ -27,9 +27,9 @@ const About = () => {
                             <p class="mt-4 text-white text-justify">
                                 I'm Sheshan Raj V and I am currently majoring in the field of Computer Science. I love the field of computer science as it
                                 involves bit of every other field. I love learning new technologies. I am a budding MERN full-stack developer. I have now
-                                completed the React.js course as well as React Native. I have done many projects which are listed below, which gave me
-                                professional experience in the field of computer science. I am also familiar with the range of Python.I worked on a (Bach
-                                Medicinal Flowers) mobile app project in React Native as well as a shopping cart E-Commerce project in React.js.
+                                completed the Full-Stack course. I have done many projects which are listed below, which gave me
+                                professional experience in the field of computer science. I am also familiar with the range of Python.I worked on a (Habits
+                                Financial App) mobile app project in React Native as well as a shopping cart E-Commerce project in Next.js.
                             </p>
 
                             {/* <a

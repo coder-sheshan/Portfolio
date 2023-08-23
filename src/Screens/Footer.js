@@ -41,7 +41,7 @@ const Footer = () => {
                     <strong
                         class="block text-center text-xl font-bold text-purple-700 dark:text-white sm:text-3xl"
                     >
-                        Want us to email you with the latest vacancy
+                        Want us to email me
                     </strong>
                     <form ref={form} onSubmit={sendEmail} className="space-y-4 mt-5">
                         <div>
@@ -132,10 +132,8 @@ const Footer = () => {
                     <div class="mx-auto max-w-sm lg:max-w-none">
                         <p
                             class="mt-4 text-center text-white dark:text-gray-400 lg:text-left lg:text-lg"
-                        >
-                            "I am convinced that nothing we do is more important than hiring and developing people. At the end of the day you bet on people, not on strategies".
-                        </p>
-
+                        >                            
+                        "Be curious. Use data. Leverage imagination. Be an expert. Be an enthusiast. Be authentic. Know your competition." </p>
                         <div class="mt-6 flex justify-center gap-4 lg:justify-start">
                             <a
                                 class="text-blue-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75"
@@ -294,7 +292,7 @@ const Footer = () => {
                                         class="text-gray-400 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75"
                                         href="/"
                                     >
-                                        RealTime-Chatting
+                                        Finanacial App
                                     </a>
                                 </li>
 
@@ -303,7 +301,7 @@ const Footer = () => {
                                         class="text-gray-400 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75"
                                         href="/"
                                     >
-                                        Hospital Management
+                                        Hospital Website
                                     </a>
                                 </li>
 
