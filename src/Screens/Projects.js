@@ -3,7 +3,7 @@ import Project_Img1 from '../Assets/Project1.png';
 import Project_IMg2 from '../Assets/projects2.png';
 import project_Todo from '../Assets/Todo.png';
 import LogIn from '../Assets/login.png';
-
+import Habits from '../Assets/habits.png'
 const Projects = () => {
     return (
         <div>
@@ -128,10 +128,10 @@ const Projects = () => {
                             </div>
                         </a> */}
 
-                        <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
+                        <a href="https://play.google.com/store/apps?utm_source=apac_med&hl=en-IN&utm_medium=hasem&utm_content=Oct0121&utm_campaign=Evergreen&pcampaignid=MKT-EDR-apac-in-1003227-med-hasem-ap-Evergreen-Oct0121-Text_Search_BKWS-BKWS%7cONSEM_kwid_43700064490253544_creativeid_480915691381_device_c&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx5WhhrIOQ3earlJfPYMSEpR3ywdSZum90xQ8e3MyEv8cu2AAHHwzUMaAtc5EALw_wcB&gclsrc=aw.ds" target='blank' rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
-                                src="https://images.unsplash.com/photo-1588515724527-074a7a56616c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+                                src={Habits}
                                 class="h-56 w-full rounded-bl-3xl rounded-tr-3xl object-cover sm:h-64 lg:h-72"
                             />
 
