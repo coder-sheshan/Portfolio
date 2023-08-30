@@ -5,6 +5,9 @@ import project_Todo from '../Assets/Todo.png';
 import LogIn from '../Assets/login.png';
 import Habits from '../Assets/habits.png'
 import WorkInProgress from '../Assets/WIP.jpg';
+import Netflix from '../Assets/netflix.png';
+import Kavis from '../Assets/kavis.png';
+import eCommerce from '../Assets/ecommerce.png';
 
 const Projects = () => {
     return (
@@ -82,10 +85,10 @@ const Projects = () => {
                             </div>
                         </a>
 
-                        <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
+                        <a href="/" rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
-                                src={WorkInProgress}
+                                src={eCommerce}
                                 class="h-56 w-full rounded-bl-3xl rounded-tr-3xl object-cover sm:h-64 lg:h-72"
                             />
 
@@ -98,15 +101,15 @@ const Projects = () => {
                             </div>
                         </a>
 
-                        <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
+                        <a href="https://dr-kavis-womens-care-center-4yy4.vercel.app/" target='blank' rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
-                                src={WorkInProgress}
+                                src={Kavis}
                                 class="h-56 w-full rounded-bl-3xl rounded-tr-3xl object-cover sm:h-64 lg:h-72"
                             />
 
                             <div class="mt-4 sm:flex sm:items-center sm:justify-center sm:gap-4">
-                                <strong class="font-medium">SKS Women's Center</strong>
+                                <strong class="font-medium">Dr.Kavi's Women Care center</strong>
 
                                 <span class="hidden sm:block sm:h-px sm:w-8 sm:bg-yellow-500"></span>
 
@@ -146,10 +149,10 @@ const Projects = () => {
                             </div>
                         </a>
 
-                        <a href="https://www.javatpoint.com/javascript-tutorial" target='blank' rel="noreferrer" class="block">
+                        <a href="/"  rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
-                                src={WorkInProgress}
+                                src={Netflix}
                                 class="h-56 w-full rounded-bl-3xl rounded-tr-3xl object-cover sm:h-64 lg:h-72"
                             />
 
