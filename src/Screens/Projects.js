@@ -133,7 +133,7 @@ const Projects = () => {
                             </div>
                         </a> */}
 
-                        {/* <a href="https://play.google.com/store/apps?utm_source=apac_med&hl=en-IN&utm_medium=hasem&utm_content=Oct0121&utm_campaign=Evergreen&pcampaignid=MKT-EDR-apac-in-1003227-med-hasem-ap-Evergreen-Oct0121-Text_Search_BKWS-BKWS%7cONSEM_kwid_43700064490253544_creativeid_480915691381_device_c&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx5WhhrIOQ3earlJfPYMSEpR3ywdSZum90xQ8e3MyEv8cu2AAHHwzUMaAtc5EALw_wcB&gclsrc=aw.ds" target='blank' rel="noreferrer" class="block">
+                        <a href="https://play.google.com/store/apps?utm_source=apac_med&hl=en-IN&utm_medium=hasem&utm_content=Oct0121&utm_campaign=Evergreen&pcampaignid=MKT-EDR-apac-in-1003227-med-hasem-ap-Evergreen-Oct0121-Text_Search_BKWS-BKWS%7cONSEM_kwid_43700064490253544_creativeid_480915691381_device_c&gclid=Cj0KCQjw3JanBhCPARIsAJpXTx5WhhrIOQ3earlJfPYMSEpR3ywdSZum90xQ8e3MyEv8cu2AAHHwzUMaAtc5EALw_wcB&gclsrc=aw.ds" target='blank' rel="noreferrer" class="block">
                             <img
                                 alt="Signage"
                                 src={Habits}
@@ -147,7 +147,7 @@ const Projects = () => {
 
                                 <p class="mt-0.5 opacity-50 sm:mt-0">Financial Mobile App/ ReactNaive</p>
                             </div>
-                        </a> */}
+                        </a>
 
                         <a href="/"  rel="noreferrer" class="block">
                             <img

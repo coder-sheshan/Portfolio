@@ -1,24 +1,25 @@
-import React from 'react'
+import React from "react";
 
 const NavBar = () => {
-
   return (
-    <div className='relative'>
-            <header className="bg-white fixed left-0 right-0 top-0">
+    <div className="relative">
+      <header className="bg-white fixed left-0 right-0 top-0 z-50">
         {/* Navigation Bar */}
         <header class="bg-white dark:bg-gray-900">
           <div class="mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex h-16 items-center justify-between">
               <div class="md:flex md:items-center md:gap-12">
                 <a class="block text-white font-semibold text-2xl" href="/">
-                  <h1>Sheshan<span class="text-purple-500 m-2">Raj</span></h1>
+                  <h1>
+                    Sheshan<span class="text-purple-500 m-2">Raj</span>
+                  </h1>
                 </a>
               </div>
 
               <div class="hidden md:block">
                 <nav aria-label="Global">
                   <ul class="flex items-center gap-6 text-sm">
-                  <li>
+                    <li>
                       <a
                         class="text-white hover:text-indigo-500 text-lg"
                         href="#home"
@@ -90,7 +91,7 @@ const NavBar = () => {
         </header>
       </header>
     </div>
-  )
-}
+  );
+};
 
-export default NavBar
+export default NavBar;
