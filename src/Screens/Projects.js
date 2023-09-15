@@ -14,7 +14,7 @@ const Projects = () => {
         <div>
             <section id='projects' class="bg-gray-900 text-white">
                 <div
-                    class="mx-auto max-w-screen-xl px-4 py-8 sm:py-12 sm:px-6 lg:py-16 lg:px-8"
+                    class="mx-auto  px-4 py-8 sm:py-12 sm:px-6 lg:py-16 lg:px-8"
                 >
                     <div class="mx-auto max-w-lg text-center">
                         <h2 class="text-2xl text-indigo-500 font-semibold sm:text-3xl">My Projects</h2>
